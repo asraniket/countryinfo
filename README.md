@@ -2,7 +2,7 @@ This is a Django Rest Framework (DRF) API that scrapes information from Wikipedi
 
 Installation Clone the repository:
 
-git clone https://github.com/your-username/country-info-api.git Install the dependencies:
+git clone https://github.com/asraniket/countryinfo.git Install the dependencies:
 
 pip install -r requirements.txt Run the migrations:
 
